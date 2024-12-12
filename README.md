@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there
+
+- I'm currently working on sharpening my data analytics skills as I transition from teaching secondary science and mathematics into the field of data science.
+- I'm looking to collaborate on any beginner friendly projects
+- pronouns he/him
+
 
 <!--
 **mayolevi33/mayolevi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
